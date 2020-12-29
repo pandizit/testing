@@ -1,5 +1,6 @@
 {
     "name": "pandizit/testing",
+	"description": "hanya test",
     "type": "library",
     "authors": [
         {
@@ -7,5 +8,9 @@
             "email": "pandix@live.com"
         }
     ],
+	"autoload": {
+        "oke": {"pandizit\\HelloWorld\\": "src/"}
+    },
+	"minimum-stability": "stable",
     "require": {}
 }
