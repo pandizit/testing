@@ -2,16 +2,16 @@
     "name": "pandizit/testing",
 	"description": "hanya test",
     "type": "library",
+	"license": "MIT",
     "authors": [
         {
             "name": "pandizit",
             "email": "pandix@live.com"
         }
     ],
-	"license": "MIT",
-	"autoload": {
-        "oke": {"pandizit\\HelloWorld\\": "src/"}
-    },
 	"minimum-stability": "stable",
+	"autoload": {
+        "psr-4": {"pandizit\\HelloWorld\\": "src/"}
+    },
     "require": {}
 }
