@@ -1,0 +1,11 @@
+{
+    "name": "pandizit/testing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pandizit",
+            "email": "pandix@live.com"
+        }
+    ],
+    "require": {}
+}
