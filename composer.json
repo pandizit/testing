@@ -8,6 +8,7 @@
             "email": "pandix@live.com"
         }
     ],
+	"license": "MIT",
 	"autoload": {
         "oke": {"pandizit\\HelloWorld\\": "src/"}
     },
